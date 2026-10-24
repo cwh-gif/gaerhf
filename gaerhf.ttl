@@ -2809,6 +2809,20 @@
    :representative-latlong-point (31.2052 -7.8623) ;
    :thumbnail-image <https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_13/8f7faea9_bfe4_45ba_b483_a3e000dec3a8/mid_01591370_001.jpg> , <https://africanrockart.britishmuseum.org/assets/images/site/2013_2034.5879.jpg> .
 
+:baal-thunderbolt-ugarit a :group-of-human-figures ;
+   rdfs:label "Baal with Thunderbolt" ;
+   :described-by <https://en.wikipedia.org/wiki/Baal_with_Thunderbolt> ,
+      <https://collections.louvre.fr/en/ark:/53355/cl010140542> ;
+   :earliest-date -2000 ;
+   :latest-date -1150 ;
+   :apparent-gender :male ;
+   :height 1.44 ;
+   :material-note "Oolitic limestone" ;
+   :note "From Wikipedia: “The stele depicts Baal (or Hadad), the god of storm and rain as well as that of agriculture, and a smaller male figure. The stele's artistic style has been described as blending Egyptian and Syrian artistic elements. … A man, who is shown with a bare head and wearing ceremonial dress, is depicted standing on a horned altar between the spear and the god and praying. The smaller figure most likely represents the king of Ugarit.”" ;
+   :in-modern-country-note "Syria" ;
+   :representative-latlong-point (35.602 35.782) ; # Ugarit (Ras Shamra), acropolis west of the Temple of Baal; found 1932
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Baal_thunderbolt_Louvre_AO15775.jpg> .
+
 :arctic-first-peoples-maskette a :human-figure ;
    rdfs:label "Arctic First Peoples Maskette" ;
    :described-by <https://www.historymuseum.ca/collections/artifact/1295533> ;
@@ -3142,6 +3156,7 @@
    :earliest-date -1300 ;
    :latest-date -800 ;
    :in-modern-country-note "Mexico" ;
+   :note "From Wikipedia: “The sculpture depicts a man turning his body in an almost perfect circle so that his feet are placed on either side of his head. His hands also curl upward just below his feet. The face of this acrobat is expressive, with a long, hooked nose, almond-shaped eyes, slightly half-open mouth and droopy ears.”" ;
    :art-historical-culture-or-tradition :tlatico-culture ;
    :representative-latlong-point (19.5 -99.25) ; # Tlatilco, Mexico
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Acróbata_de_Tlatilco.JPG> .
@@ -3233,6 +3248,21 @@
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Karabel1.jpg> .
 
 # -1208 https://en.wikipedia.org/wiki/Merneptah_Stele
+
+:nazimaruttas-kudurru a :human-figure ;
+   rdfs:label "Nazimaruttaš Kudurru Stone" ;
+   :described-by <https://en.wikipedia.org/wiki/Nazimarutta%C5%A1_kudurru_stone> ,
+      <https://collections.louvre.fr/en/ark:/53355/cl010174451> ;
+   :earliest-date -1307 ;
+   :latest-date -1282 ;
+   :apparent-gender :male ;
+   :height 0.65 ;
+   :material-note "Black limestone" ;
+   :note "From Wikipedia: “The Nazimaruttash kudurru stone is a boundary stone (kudurru) of Nazimaruttaš, a Kassite king of Babylon, c. 1307–1282 BC (short chronology). It was found at Susa and is now displayed at the Louvre.”" ;
+   :in-modern-country-note "Iran" ;
+   :representative-latlong-point (32.190556 48.257778) ; # Susa (Wikipedia); acropolis, 1898; taken there as war booty in the 12th c. BC
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Kudurru_of_Nazi-Maruttash.jpg> ,
+      <https://commons.wikimedia.org/wiki/File:Lune_Grand_Palais_-_Kudurru_of_Nazi-Maruttash_01.jpg> .
 
 :jade-figure-fu-hao a :human-figure ;
    rdfs:label "Jade Figure from Tomb of Fu Hao" ;
@@ -3368,6 +3398,21 @@
    :representative-latlong-point (35.159722 33.888333) ; # Enkomi archaeological site (Wikipedia)
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Geh%C3%B6rnter_Gott,_Enkomi.jpg> .
 
+:cupisnique-whistle-tembladera a :human-figure ;
+   rdfs:label "Cupisnique Whistle" ;
+   :described-by <https://www.metmuseum.org/art/collection/search/316715> ;
+   :earliest-date -1200 ;
+   :latest-date -500 ;
+   :apparent-gender :unclear ;
+   :height 0.06 ;
+   :material-note "Ceramic, traces of white and red pigment" ;
+   :identifier-note "Accession no. 1992.60.3" ;
+   :note "Exact findspot unknown. From The Met: “This small whistle (ocarina in Spanish) is one of a group of similar objects … created by artists of the Cupisnique culture of Peru’s North Coast in the years between 1200 and 500 BCE. This whistle depicts an individual with their hands near their mouth as if they were shouting or calling. A child appears above the person’s head as if being carried on his or her shoulders.”" ;
+   :in-modern-country-note "Peru" ;
+   :representative-latlong-point (-7.2538172 -79.129784) ; # Tembladera, Jequetepeque Valley, Cajamarca; the Met says the group was "said to have come from" there
+   :thumbnail-image <https://images.metmuseum.org/CRDImages/ao/original/DP-24269-001.jpg> ,
+      <https://images.metmuseum.org/CRDImages/ao/original/DP-24269-002.jpg> .
+
 :ralaghan-idol a :human-figure ;
    rdfs:label "Ralaghan Idol" ;
    :described-by <https://en.wikipedia.org/wiki/Ralaghan_Idol> ;
@@ -3389,6 +3434,36 @@
    :in-modern-country-note "Spain" ;
    :representative-latlong-point (39.115278 -5.745833) ;
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Estela_de_Magacela_(29350234441).jpg> .
+
+:storm-god-temple-orthostats-aleppo a :group-of-human-figures ;
+   rdfs:label "Temple of the Storm God Orthostats" ;
+   :described-by <https://www.hittitemonuments.com/aleppo/> ,
+      <https://en.wikipedia.org/wiki/Citadel_of_Aleppo> ;
+   :earliest-date -1100 ;
+   :latest-date -900 ;
+   :apparent-gender :male ;
+   :material-note "Limestone" ;
+   :note "From Hittite Monuments: “Aleppo survived the attacks of the Sea Peoples as a Neo-Hittite city-state beyond 1200 BCE. Excavations in the Aleppo citadel revealed remains of a Storm-god temple with multiple orthostats that date to the post-Empire period, possibly around the 11th to 10th century BCE. The city came under Assyrian rule in the 9th century BCE.”" ;
+   :in-modern-country-note "Syria" ;
+   :representative-latlong-point (36.199167 37.1625) ; # Citadel of Aleppo (Wikidata Q206231)
+   :thumbnail-image <https://www.hittitemonuments.com/aleppo/aleppo17.jpg> ,
+      <https://www.hittitemonuments.com/aleppo/aleppo06.jpg> ,
+      <https://www.hittitemonuments.com/aleppo/aleppo18.jpg> .
+
+:king-taita-relief-aleppo-6 a :human-figure ;
+   rdfs:label "King Taita’s Inscription (Aleppo 6)" ;
+   :described-by <https://www.hittitemonuments.com/aleppo/aleppo22.htm> ,
+      <https://en.wikipedia.org/wiki/Palistin> ;
+   :earliest-date -1100 ;
+   :latest-date -1000 ;
+   :apparent-gender :male ;
+   :height 2.0 ;
+   :material-note "Black basalt (relief); inscription continues on adjoining limestone slab" ;
+   :note "From Hittite Monuments: “During the 2003 season of the excavations at the Aleppo citadel, the orthostats of the eastern wall of the cella were uncovered in situ. Among them is a relief of King Taita of Palistin carved on a black basalt slab that stands almost 2 meters tall. The king is shown facing a relief of the Storm God to his right. There is an 11-line incised Hieroglyphic Luwian inscription (ALEPPO 6) that starts on the flat space above the king's head and continues on the limestone slab to the right. The inscription identifies that male figure in the fist person as ‘King Taita, the Hero, Palistinean King’ and instructs the visitors to make offerings to the Storm God of Aleppo.”" ;
+   :in-modern-country-note "Syria" ;
+   :representative-latlong-point (36.199167 37.1625) ; # Citadel of Aleppo, Storm-God temple cella, in situ (Wikidata Q206231)
+   :thumbnail-image <https://www.hittitemonuments.com/aleppo/aleppo22.jpg> ,
+      <https://www.hittitemonuments.com/aleppo/aleppo22b.jpg> .
 
 :clamshell-carved-face a :human-figure ;
    rdfs:label "Clamshell with Carved Face" ;
@@ -3561,6 +3636,34 @@
    :art-historical-culture-or-tradition :dong-son-culture ;
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:The_Bronze_Lamp_in_the_Shape_of_a_Kneeling_Man_(Original).jpg> .
 
+:storm-god-stele-babylon-1 a :human-figure ;
+   rdfs:label "Storm-god Stele (Babylon 1)" ;
+   :described-by <https://www.hittitemonuments.com/aleppo/aleppo13.htm> ;
+   :earliest-date -1000 ;
+   :latest-date -800 ;
+   :apparent-gender :male ;
+   :height 1.28 ;
+   :note "From Hittite Monuments: “The stele was excavated in Babylon at the palace complex of Nebuchadnezzar II in 1899. … On the front is a relief of the Storm-god in a typical pose holding an axe in one hand and a symbol of lightning in the other.”" ;
+   :in-modern-country-note "Iraq" ;
+   :representative-latlong-point (32.5425 44.421111) ; # Babylon, findspot (Wikidata Q5684); probably made for the Storm-God temple at Aleppo; now in the Istanbul Archaeology Museum
+   :thumbnail-image <https://www.hittitemonuments.com/aleppo/aleppo13.jpg> ,
+      <https://www.hittitemonuments.com/aleppo/aleppo13c.jpg> ,
+      <https://www.hittitemonuments.com/aleppo/aleppo13d.jpg> .
+
+:adiyaman-2-stele a :human-figure ;
+   rdfs:label "Adiyaman 2" ;
+   :described-by <https://www.hittitemonuments.com/adiyaman/> ;
+   :earliest-date -1000 ;
+   :latest-date -900 ;
+   :apparent-gender :male ;
+   :height 0.72 ;
+   :material-note "Limestone" ;
+   :note "Findspot unknown. From Hittite Monuments: “It shows the Storm-God in a typical pose with an axe in his raised hand. With his short tunic, pointy shoes, and horned pointy hat, he displays an older style, and a date in the 10th century has been suggested. On the right side of the stele is a partially preserved 4-line Luwian inscription, which is a dedication to the Storm-god and the signature of the scribe.”" ;
+   :in-modern-country-note "Turkey" ;
+   :representative-latlong-point (37.763889 38.277778) ; # Adıyaman (proxy); stele in the Adıyaman Museum, provenance unknown
+   :thumbnail-image <https://www.hittitemonuments.com/adiyaman/adiyaman05.jpg> ,
+      <https://www.hittitemonuments.com/adiyaman/adiyaman04.jpg> .
+
 :giants-of-mont-e-prama a :group-of-human-figures ;
    rdfs:label "Giants of Mont'e Prama, Sardinia" ;
    :described-by <https://en.wikipedia.org/wiki/Giants_of_Mont%27e_Prama>,
@@ -3683,6 +3786,19 @@
    :representative-latlong-point (9.466 8.385) ; # find-spot: Tsauni tin mine at Jemaa (Jema'a), southern Kaduna State, Nigeria — coordinates approximate the village of Jema'a
    :thumbnail-image <https://brunoclaessens.com/wp-content/uploads/2013/06/Jemaa-head-Nok-Nigeria.jpeg> .
 
+:spear-bow-warrior-arslan-tash a :human-figure ;
+   rdfs:label "Spear and Bow-holding Warrior" ;
+   :described-by <https://www.hittitemonuments.com/arslantas2/> ;
+   :earliest-date -900 ;
+   :latest-date -800 ;
+   :apparent-gender :male ;
+   :height 1.45 ;
+   :material-note "Basalt" ;
+   :note "From Hittite Monuments: “Likewise, a 1.45-meter-high basalt stele that depicts a spear- and bow-holding warrior (Istanbul Ancient Orient Museum) … stylistically [has] been dated to around the 9th century.”" ;
+   :in-modern-country-note "Syria" ;
+   :representative-latlong-point (36.848611 38.407778) ; # Arslan Tash (ancient Hadattu); Wikidata Q1254502 gives 36.849 38.409
+   :thumbnail-image <https://www.hittitemonuments.com/arslantas2/arslan-tas01.jpg> .
+
 :funerary-jar-figures-boat a :group-of-human-figures ;
    rdfs:label "Funerary Jar with Two Figures in Boat" ;
    :described-by <https://en.wikipedia.org/wiki/Manunggul_Jar> ;
@@ -3729,6 +3845,34 @@
 # approx -800 https://en.wikipedia.org/wiki/Saba%27a_Stele
 
 # -800 - -700 https://en.wikipedia.org/wiki/Melqart_stele
+
+:adiyaman-1-stele a :human-figure ;
+   rdfs:label "Adiyaman 1" ;
+   :described-by <https://www.hittitemonuments.com/adiyaman/> ;
+   :earliest-date -825 ;
+   :latest-date -750 ;
+   :apparent-gender :male ;
+   :height 1.0 ;
+   :material-note "Limestone" ;
+   :note "Findspot unknown. From Hittite Monuments: “The limestone stele fragment shows the Storm-God standing on a bull. Only the lower left quarter of the stele has survived. The present fragment is about 1 meter in height (including the tenon), with about 30 cm in width and 20 cm in thickness. The side and back of the stele have partially preserved 4 lines of Hieroglyphic Luwian inscription about the dedication to the Storm God and protective curses against any damage. There is no information about its find place.”" ;
+   :in-modern-country-note "Turkey" ;
+   :representative-latlong-point (37.763889 38.277778) ; # Adıyaman (proxy); stele in the Adıyaman Museum, provenance unknown
+   :thumbnail-image <https://www.hittitemonuments.com/adiyaman/adiyaman02.jpg> ,
+      <https://www.hittitemonuments.com/adiyaman/adiyaman01.jpg> .
+
+:andaval-stele a :human-figure ;
+   rdfs:label "Andaval Stele" ;
+   :described-by <https://www.hittitemonuments.com/andaval/> ,
+      <https://de.wikipedia.org/wiki/Stele_von_Andaval> ;
+   :earliest-date -825 ;
+   :latest-date -775 ;
+   :apparent-gender :male ;
+   :material-note "Basalt" ;
+   :note "From Hittite Monuments: “It is a part of a stele with a relief and four visible lines of an inscription. It was first reported in 1890 by Ramsey, who had seen it built into the floor of a church in Andaval (now Aktaş) village about 9 km. northeast of Niğde. … The inscription names ‘Saruwani, the ruler, the lord of the city Nahitiya’ and mentions herds of horses.”" ;
+   :in-modern-country-note "Turkey" ;
+   :representative-latlong-point (38.01875 34.740889) ; # Andaval Church, Aktaş, Niğde (Wikidata Q118869725), where the stele was found reused; now in the Museum of Anatolian Civilizations, Ankara
+   :thumbnail-image <https://www.hittitemonuments.com/andaval/andaval03.jpg> ,
+      <https://www.hittitemonuments.com/andaval/andaval02.jpg> .
 
 :gold-cup-hasanlu a :group-of-human-figures ;
    rdfs:label "Gold Cup from Hasanlu" ;
@@ -3835,6 +3979,25 @@
 
 # -712 calcite and bronze sculpture from circa 712–525 BCE in the Brooklyn Museum. https://www.brooklynmuseum.org/objects/4035
 
+:west-gate-orthostats-arslan-tash a :group-of-human-figures ;
+   rdfs:label "West Gate Orthostats" ;
+   :described-by <https://www.hittitemonuments.com/arslantas2/> ;
+   :earliest-date -800 ;
+   :latest-date -700 ;
+   :apparent-gender :male ;
+   :material-note "Basalt" ;
+   :note "From Hittite Monuments: “Numerous orthostats and three pairs of portal lions that once decorated the city gates and temple entrances mainly date to the Assyrian period in the 8th century, although they display the north Syrian workmanship.”" ;
+   :in-modern-country-note "Syria" ;
+   :representative-latlong-point (36.848611 38.407778) ; # Arslan Tash, West Gate (ancient Hadattu); slabs now in Istanbul, Aleppo and the Louvre
+   :thumbnail-image <https://www.hittitemonuments.com/arslantas2/arslan-tas16.jpg> ,
+      <https://www.hittitemonuments.com/arslantas2/arslan-tas17.jpg> ,
+      <https://www.hittitemonuments.com/arslantas2/arslan-tas18.jpg> ,
+      <https://www.hittitemonuments.com/arslantas2/arslan-tas19.jpg> ,
+      <https://www.hittitemonuments.com/arslantas2/arslan-tas20.jpg> ,
+      <https://www.hittitemonuments.com/arslantas2/arslan-tas21.jpg> ,
+      <https://www.hittitemonuments.com/arslantas2/arslan-tas22.jpg> ,
+      <https://www.hittitemonuments.com/arslantas2/arslan-tas23.jpg> .
+
 :roos-carr-figures a :group-of-human-figures ;
    rdfs:label "Roos Carr Figures" ;
    :described-by <https://en.wikipedia.org/wiki/Roos_Carr_figures> ;
@@ -3856,6 +4019,20 @@
    :note "From Wikipedia: “The İvriz monuments are a group of Hittite monuments found in south-central Anatolia, located in the town of Aydınkent, formerly called İvriz ...” The relief shows King Warpalawas “standing on a stone platform with his hands raised in a gesture of greeting or worship”; “opposite him at left stands the god Tarhunzas, who is depicted as much larger,” holding “ripe stalks of wheat and grape clusters.” It measures 4.2 by 2.4 m and dates to the second half of the 8th century BC." ;
    :representative-latlong-point (37.409722 34.1725) ; # ll for İvriz relief, Aydınkent (from Wikipedia)
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Ivriz_Neo-Hittite_relief_detail_(1993).jpg> .
+
+:aksaray-stele a :human-figure ;
+   rdfs:label "Aksaray Stele" ;
+   :described-by <https://www.hittitemonuments.com/aksaray/> ;
+   :earliest-date -750 ;
+   :latest-date -700 ;
+   :apparent-gender :male ;
+   :height 0.88 ;
+   :material-note "Limestone" ;
+   :note "From Hittite Monuments: “It is the bottom part of a stele with a relief of Storm God on the front face and the last 5 lines of a Hieroglyphic Luwian inscription on the back and the sides. The last line continues to the front of the stele, forming a line below the god relief. … It was found during the excavations for an office building construction in Aksaray in 1976. … Kiyakiya is thought to be the same person known as Kiakki in Assyrian sources, who was deposed by Assyrian King Sargon II in 718 BCE. Thus, the stele is dated to the end of the 8th century BCE.”" ;
+   :in-modern-country-note "Turkey" ;
+   :representative-latlong-point (38.374167 34.028889) ; # Aksaray; found during building construction in the town in 1976
+   :thumbnail-image <https://www.hittitemonuments.com/aksaray/aksaray03.jpg> ,
+      <https://www.hittitemonuments.com/aksaray/aksaray02.jpg> .
 
 :standing-figure-cadiz a :human-figure ;
    rdfs:label "Standing Figure from Cadiz" ;
@@ -3939,6 +4116,21 @@
    :in-modern-country-note "Sudan" ;
    :representative-latlong-point (19.600803 30.409731 ) ;
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Tanotamun_statue_in_Kerma_Museum.jpg> .
+
+:statue-official-bes a :human-figure ;
+   rdfs:label "Statue of the Official Bes" ;
+   :described-by <https://en.wikipedia.org/wiki/Statue_of_official_Bes> ,
+      <https://egypt-museum.com/statuette-of-the-official-bes/> ;
+   :earliest-date -664 ;
+   :latest-date -610 ;
+   :apparent-gender :male ;
+   :height 0.322 ;
+   :material-note "Compact limestone" ;
+   :identifier-note "Inv. 158 (Calouste Gulbenkian Museum)" ;
+   :note "Findspot unknown. From Wikipedia: “The statue depicts an elite courtier named Bes. The inscription at the statue's base describes him as ‘Count and Prince, Companion of His Majesty.’ The statue dates to the reign of Psamtik I (664–610 BC) of the 26th Dynasty and depicts Bes in a pose typically used by government officials of that time period (it was also common during the Old Kingdom and beginning of the New Kingdom).”" ;
+   :in-modern-country-note "Egypt" ;
+   :representative-latlong-point (30.964722 30.768333) ; # Sais (Wikipedia), 26th-Dynasty capital, as proxy; findspot unknown (ex MacGregor Collection)
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Statue_of_Bes,_an_Egyptian_official_(Gulbenkian_Museum,_photo_by_Szilas).jpg> .
 
 :female-flanked-sphinxes a :human-figure ;
    rdfs:label "Seated Female Figure Flanked by Sphinxes" ;
@@ -4122,6 +4314,21 @@
    :note "From Wikipedia: “The Sounion Kouros is an early archaic Greek statue of a naked young man or kouros carved in marble from the island of Naxos around 600 BCE. It is one of the earliest examples that scholars have of the kouros-type which functioned as votive offerings to gods or demi-gods, and were dedicated to heroes. Found near the Temple of Poseidon at Cape Sounion, this kouros was found badly damaged and heavily weathered. It was restored to its original height of 3.05 meters (10.0 ft) returning it to its larger than life size.”" ;
    :representative-latlong-point (37.6502 24.02455) ; # Temple of Poseidon, Sounion (find-spot), from Wikipedia
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Statua_di_kouros,_dall'esterno_del_tempio_di_poseidone_a_sounion,_600_ac_ca.,_n._2720,_01.jpg> .
+
+:seated-man-rider-oxus-treasure a :human-figure ;
+   rdfs:label "Figure of a Seated Man (Rider) from Oxus Treasure" ;
+   :described-by <https://www.britishmuseum.org/collection/object/W_1931-0408-1> ,
+      <https://en.wikipedia.org/wiki/Oxus_Treasure> ;
+   :earliest-date -600 ;
+   :latest-date -300 ;
+   :apparent-gender :male ;
+   :height 0.076 ;
+   :material-note "Gold" ;
+   :identifier-note "Registration no. 1931,0408.1" ;
+   :note "From British Museum website: “Gold figure of a seated man: wearing a high, stiff cap, trousers and long tunic with edge decoration. He was probably originally holding reins and mounted on a horse.”" ;
+   :in-modern-country-note "Tajikistan" ;
+   :representative-latlong-point (37.054553 68.281994) ; # Takht-i Kuwad (?), per British Museum
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Seated_man_Oxus_Treasure_BM_ME1931.0408.1.jpg> .
 
 :gorgon-pediment-corfu a :group-of-human-figures ;
    rdfs:label "Gorgon Pediment, Temple of Artemis, Corfu" ;
@@ -4431,6 +4638,36 @@
    :representative-latlong-point ( 37.054553 68.281994 ) ;
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Oxus_treasure_statuette.jpg> .
 
+:gold-statuette-bearded-man-1897-1231-2-oxus-treasure a :human-figure ;
+   rdfs:label "Gold Statuette of Bearded Man from Oxus Treasure (1897,1231.2)" ;
+   :described-by <https://www.britishmuseum.org/collection/object/W_1897-1231-2> ,
+      <https://en.wikipedia.org/wiki/Oxus_Treasure> ;
+   :earliest-date -500 ;
+   :latest-date -400 ;
+   :apparent-gender :male ;
+   :height 0.056 ;
+   :material-note "Gold" ;
+   :identifier-note "Registration no. 1897,1231.2" ;
+   :note "From British Museum website: “Gold statuette of bearded man; cast and chased; thin face with small straight nose, hair cut short across the forehead; wearing a high stiff hood-like cap, the sides of which cover the ears, a tail-like end and a broad band crossing the chin under the lower lip leaving the moustache visible but covering the presumed beard; also wearing a girded tunic reaching to the knees and over this a long-sleeved coat (candys) with ornamented or furred edges worn as a mantle, the sleeves hanging empty at the sides; left arm beneath the coat but right hand protrudes and holds a bundle of rods (barsom); irregular flat plate base and the feet are not shown.”" ;
+   :in-modern-country-note "Tajikistan" ;
+   :representative-latlong-point (37.054553 68.281994) ; # Takht-i Kuwad (?), per British Museum
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Gold_statuettes_from_the_Oxus_Treasure_by_Nickmard_Khoey.jpg> .
+
+:gold-statuette-bearded-man-1897-1231-2-a-oxus-treasure a :human-figure ;
+   rdfs:label "Gold Statuette of Bearded Man from Oxus Treasure (1897,1231.2.a)" ;
+   :described-by <https://www.britishmuseum.org/collection/object/W_1897-1231-2-a> ,
+      <https://en.wikipedia.org/wiki/Oxus_Treasure> ;
+   :earliest-date -500 ;
+   :latest-date -400 ;
+   :apparent-gender :male ;
+   :height 0.053 ;
+   :material-note "Gold" ;
+   :identifier-note "Registration no. 1897,1231.2.a" ;
+   :note "From British Museum website: “Gold statuette of bearded man: the figure wears a high, stiff cap, tunic and embroidered coat with empty sleeves (called a ‘kandys’) holding a bundle of rods (called a ‘barsom’).”" ;
+   :in-modern-country-note "Tajikistan" ;
+   :representative-latlong-point (37.054553 68.281994) ; # Takht-i Kuwad (?), per British Museum
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Gold_statuettes_from_the_Oxus_Treasure_by_Nickmard_Khoey.jpg> .
+
 :pfalzfeld-obelisk a :group-of-human-figures ;
    rdfs:label "Pfalzfeld Obelisk" ;
    :described-by <https://en.wikipedia.org/wiki/Pfalzfeld_obelisk> ,
@@ -4462,6 +4699,69 @@
    :in-modern-country-note "Tajikistan" ;
    :representative-latlong-point (37.054553 68.281994) ;
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Chopped_gold_pieces_from_the_Oxus_Treasure_by_Nickmard_Khoey213.jpg> .
+
+:chariot-model-oxus-treasure a :group-of-human-figures ;
+   rdfs:label "Chariot Model from Oxus Treasure" ;
+   :described-by <https://www.britishmuseum.org/collection/object/W_1897-1231-7> ,
+      <https://en.wikipedia.org/wiki/Oxus_Treasure> ,
+      <https://artsandculture.google.com/asset/oxus-chariot-model/tQEs3NjQRN6N_Q> ;
+   :earliest-date -500 ;
+   :latest-date -300 ;
+   :apparent-gender :male ;
+   :height 0.075 ;
+   :material-note "Gold" ;
+   :identifier-note "Registration no. 1897,1231.7" ;
+   :note "From British Museum website: “Model of gold chariot drawn by four horses abreast … A seat, in the form of a narrow strip of gold, runs from the front to back of the interior. On this is seated the principal figure. He wears a long robe reaching to the ankles, the sleeves of which appear to be empty like those of the ‘kandys’. On his head is a hood or cap, around the front of which is a flat strip of gold, resembling a fillet, with the ends projecting above the forehead, and around his neck is a gold wire torc. The driver wears a similar cap without a fillet, a short girded tunic and a wire torc; his legs are also formed of wires. The two human figures are fixed to the chariot by wires.”" ;
+   :in-modern-country-note "Tajikistan" ;
+   :representative-latlong-point (37.054553 68.281994) ; # Takht-i Kuwad (?), per British Museum
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:British_Museum_(2931869761).jpg> .
+
+:gold-hollow-head-oxus-treasure a :human-figure ;
+   rdfs:label "Gold Hollow Head from Oxus Treasure" ;
+   :described-by <https://www.britishmuseum.org/collection/object/W_1897-1231-5> ,
+      <https://en.wikipedia.org/wiki/Oxus_Treasure> ,
+      <https://artsandculture.google.com/asset/gold-head-from-the-oxus-treasure/vwFYQfjYYZEjBA> ;
+   :earliest-date -500 ;
+   :latest-date -300 ;
+   :apparent-gender :male ;
+   :height 0.113 ;
+   :material-note "Gold" ;
+   :identifier-note "Registration no. 1897,1231.5" ;
+   :note "From British Museum website: “Large hollow gold head of a beardless man made from a single piece of hammered sheet; slightly aquiline nose with prominent superciliary ridges; eyes wide open, the pupils being represented by punched circles; pierced ear lobes, and in one the remains of a plug with a small hook at the end which was evidently intended to support an earring; the hair is represented by close-set wavy lines radiating from the centre; the back of the neck is damaged by a long, almost vertical, cut. … Possibly originally fixed onto the top of a staff.”" ;
+   :in-modern-country-note "Tajikistan" ;
+   :representative-latlong-point (37.054553 68.281994) ; # Takht-i Kuwad (?), per British Museum
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Gold_Heads_from_the_Oxus_treasure_(9080184502).jpg> .
+
+:small-hollow-head-oxus-treasure a :human-figure ;
+   rdfs:label "Small Hollow Head from Oxus Treasure" ;
+   :described-by <https://www.britishmuseum.org/collection/object/W_1897-1231-6> ,
+      <https://en.wikipedia.org/wiki/Oxus_Treasure> ;
+   :earliest-date -500 ;
+   :latest-date -300 ;
+   :apparent-gender :male ;
+   :height 0.025 ;
+   :material-note "Gold" ;
+   :identifier-note "Registration no. 1897,1231.6" ;
+   :note "From British Museum website: “Small hollow gold human head; hammered from sheet; representing a beardless man with a broad face and fine features; the hair is cut straight across the forehead and is long at the back; the top and back have close rows of short, punched, vertical lines; on the crown of the head is a small circular depression pierced with eight holes in a rosette-like arrangement; there are three slots, one above each ear and one at the back of the head; possibly the stopper for a flask.”" ;
+   :in-modern-country-note "Tajikistan" ;
+   :representative-latlong-point (37.054553 68.281994) ; # Takht-i Kuwad (?), per British Museum
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Gold_Heads_from_the_Oxus_treasure_(9080184502).jpg> .
+
+:silver-statuette-bearded-man-oxus-treasure a :human-figure ;
+   rdfs:label "Silver Statuette of Bearded Man from Oxus Treasure" ;
+   :described-by <https://www.britishmuseum.org/collection/object/W_1897-1231-1> ,
+      <https://en.wikipedia.org/wiki/Oxus_Treasure> ,
+      <https://artsandculture.google.com/asset/cast-silver-statuette-of-a-bearded-man-from-the-oxus-treasure/ZAECYqgWDSjZWg> ;
+   :earliest-date -500 ;
+   :latest-date -300 ;
+   :apparent-gender :male ;
+   :height 0.145 ;
+   :material-note "Silver, gold" ;
+   :identifier-note "Registration no. 1897,1231.1" ;
+   :note "From British Museum website: “Cast and chased silver statuette; a bearded man in Persian costume standing with his right arm hanging beside his side and holding in his left hand a bundle of rods (barsom) in front of his chest; long narrow beard with whiskers and moustache; heavy eyebrows, large eyes and regular nose; wears a short jacket with close sleeves, gilded in front, and at the back ornamented with a vandyked band in cross-hatching; a skirt of many folds falls to his feet and diverges from a vertical raised median band which is decorated with herringbone and gilded; wears a low cylindrical headdress with a flat top covering the ears and bound with a raised fillet knotted at the back where the ends hang down; around the top is a flat band engraved with crenellations; below the headdress the long hair forms a large roll, projecting on each side of the face, and conventionally decorated behind with dotted circles; both feet are pierced at the instep.”" ;
+   :in-modern-country-note "Tajikistan" ;
+   :representative-latlong-point (37.054553 68.281994) ; # Takht-i Kuwad (?), per British Museum
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Male_statuette_Oxus_Treasure_BM_ME1897.1231.1.jpg> .
 
 :lihyanite-colossal-statue a :human-figure ;
    rdfs:label "Lihyanite Colossal Statue" ;
@@ -4809,6 +5109,20 @@
    :representative-latlong-point (46.86701 35.353108) ;
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Melitopol_kurgan_gorytos_(corrected_for_perspective).jpg> .
 
+:head-leucothea-pyrgi a :human-figure ;
+   rdfs:label "Head of Leucothea" ;
+   :described-by <https://www.museoetru.it/opere/testa-di-leucotea> ;
+   :earliest-date -340 ;
+   :latest-date -330 ;
+   :apparent-gender :female ;
+   :height 0.2 ;
+   :material-note "Polychrome terracotta, hand-modelled; pediment high relief" ;
+   :identifier-note "Excavation no. 53889" ;
+   :note "Translated from the Museo Nazionale Etrusco di Villa Giulia website: “The female head must have been part of the high relief that covered the front of the ridge beam of the roof of Temple A in the sanctuary of Pyrgi (Santa Severa), the ancient port of Caere (Cerveteri), during its renovation around 350 BC. Dedicated to Thesan, Etruscan goddess of Dawn, Temple A is attributed in Greek sources, which recall its terrible sacking by Dionysius of Syracuse (384 BC), to Leucothea (literally the ‘white goddess’), assimilated by the Romans to Mater Matuta, a goddess deeply linked to rites of passage and transition, such as birth and, therefore, also the dawn. The head seems to be attributable to this deity, which gives us an image in strong movement with curly hair blowing in the wind and a ‘pathetic’ expression given by the open mouth.”" ;
+   :in-modern-country-note "Italy" ;
+   :representative-latlong-point (42.0155 11.9627) ; # Pyrgi (Santa Severa), Temple A; Wikidata Q1724661 gives 42.015226 11.963414
+   :thumbnail-image <https://www.museoetru.it/files/opera/2019/244702.jpg> .
+
 :scultpures-tel-abrak a :group-of-human-figures ;
    rdfs:label "Parthian(?) Sculptures from Tel Abrak" ;
    :described-by <https://en.wikipedia.org/wiki/Tell_Abraq#Archaeology> ,
@@ -4899,6 +5213,20 @@
    :in-modern-country-note "Italy" ;
    :representative-latlong-point (40.473750 17.233083) ;
    :thumbnail-image <https://collectionapi.metmuseum.org/api/collection/v1/iiif/248624/531687/main-image> .
+
+:tetradrachm-alexander-pasargadae a :group-of-human-figures ;
+   rdfs:label "Tetradrachm (Coin) of Alexander the Great" ;
+   :described-by <https://www.metmuseum.org/art/collection/search/326395> ;
+   :earliest-date -325 ;
+   :latest-date -319 ;
+   :apparent-gender :male ;
+   :material-note "Silver" ;
+   :identifier-note "Accession no. 1978.93.21" ;
+   :note "From The Met: “On the obverse of this silver tetradrachm coin, a youthful bust of Herakles faces right. … He wears a headdress made of a lion’s pelt, with the paws tied around his neck. … The reverse shows the seated figure of Zeus facing left. … The Greek name ‘AΛEΞANΔPOY’ (in English, ‘Alexander’) is behind him. A ship’s prow is in front of him; this is probably a mint mark indicating who was responsible for making this coin. … This coin was excavated at Pasargadae, about 55 miles northeast of Shiraz, Iran.” Provenance: “1962, excavated under the direction of David Stronach, on behalf of the British Institute of Persian Studies.”" ;
+   :in-modern-country-note "Iran" ;
+   :representative-latlong-point (30.2 53.179444) ; # Pasargadae (Wikidata Q230025); excavated there 1962; struck at Susa
+   :thumbnail-image <https://images.metmuseum.org/CRDImages/an/original/DP-16934-019.jpg> ,
+      <https://images.metmuseum.org/CRDImages/an/original/DP-16934-020.jpg> .
 
 :carpet-pazyryk-5 a :group-of-human-figures ;
    rdfs:label "Carpet from Pazyryk Burial 5" ;
@@ -5021,6 +5349,21 @@
       <https://commons.wikimedia.org/wiki/File:J-37433_E0102665.jpg> , # archer, animals
       <https://commons.wikimedia.org/wiki/File:J-37433_E0102667.jpg> . # figure holding I-shaped tool
 
+:bard-paule a :human-figure ;
+   rdfs:label "The Bard of Paule" ;
+   :described-by <https://fr.wikipedia.org/wiki/Barde_%C3%A0_la_lyre> ,
+      <https://www.persee.fr/doc/galia_0016-4119_1999_num_56_1_3013> ,
+      <https://en.wikipedia.org/wiki/Buste-socle> ;
+   :earliest-date -200 ;
+   :latest-date -100 ;
+   :apparent-gender :male ;
+   :height 0.43 ;
+   :material-note "Meta-hornblendite" ;
+   :note "Translated from French Wikipedia: “The Barde à la lyre, or Barde de Paule, is a Gaulish sculpture created during La Tène, then buried around the 2nd or 1st century BC and discovered in 1988 in the fortress of Paule, an archaeological site located at Paule in the Côtes-d'Armor in France. Belonging to a series of four busts, it represents a bard holding a lyre in his hands.”" ;
+   :in-modern-country-note "France" ;
+   :representative-latlong-point (48.2193 -3.4415) ; # Forteresse de Paule, Côtes-d'Armor (French Wikipedia)
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Mus%C3%A9eBretagne_-_Statue_barde.jpg> . # image shows the Musée de Bretagne facsimile
+
 :lakshmi-stupa-2-sanchi a :human-figure ;
    rdfs:label "Lakshmi from Stupa 2 at Sanchi" ;
    :described-by <https://en.wikipedia.org/wiki/Sanchi_Stupa_No._2#Early_period_(circa_115_BCE)> ;
@@ -5052,6 +5395,21 @@
    :in-modern-country-note "Turkmenistan" ;
    :representative-latlong-point (37.966667 58.195) ;
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Nisa_helmeted_warrior_(black_background).jpg> .
+
+:apollo-piombino a :human-figure ;
+   rdfs:label "Apollo of Piombino" ;
+   :described-by <https://en.wikipedia.org/wiki/Apollo_of_Piombino> ,
+      <https://collections.louvre.fr/en/ark:/53355/cl010257735> ;
+   :earliest-date -125 ;
+   :latest-date -100 ;
+   :apparent-gender :male ;
+   :height 1.17 ;
+   :material-note "Bronze, with copper inlay" ;
+   :note "From Wikipedia: “The Apollo of Piombino or the Piombino Boy is a famous Greek bronze statuette in late Archaic style that depicts the god as a kouros or youth, or it may be a worshipper bringing an offering. The bronze is inlaid with copper for the boy's lips, eyebrows, and nipples. … It was found in 1832 at Piombino (Roman Populonia), in Etruria, in the harbor off the southwest point, and was purchased for the Musée du Louvre in 1834. … This inscription identifies the artists as Rhodian sculptors working in the 2nd or 1st centuries BCE, proving that it is not a genuine archaic Greek artwork.”" ;
+   :in-modern-country-note "Italy" ;
+   :representative-latlong-point (42.916667 10.533333) ; # Piombino (Wikipedia); found 1832 in the sea off the harbor
+   :thumbnail-image <https://www.getty.edu/publications/artistryinbronze/assets/img/figures/fig_42.01_Mille-Descamps.jpg> ;
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Apolo_de_Piombino_-_Louvre.jpg> .
 
 :funeray-masks-oglakhty a :group-of-human-figures ;
    rdfs:label "Funerary Masks from Oglakhty" ;
@@ -5155,6 +5513,21 @@
    :representative-latlong-point (48.520278 2.275833) ; # Château de Mesnil-Voisin, Bouray-sur-Juine (Wikipedia); dredged from the Juine near its gardens, 1845
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Fran%C3%A7oise_Foliot_-_Dieu_de_Bouray.jpg> ,
       <https://commons.wikimedia.org/wiki/File:MAN_-_Le_dieu_de_Bouray_(7).jpg> .
+
+:euffigneix-statue a :human-figure ;
+   rdfs:label "Euffigneix Statue" ;
+   :described-by <https://en.wikipedia.org/wiki/Euffigneix_statue> ,
+      <https://musee-archeologienationale.fr/collection/objet/statuette-du-dieu-dit-deuffigneix> ;
+   :earliest-date -100 ;
+   :latest-date -1 ;
+   :apparent-gender :male ;
+   :height 0.258 ;
+   :material-note "Limestone" ;
+   :identifier-note "Inv. MAN78243 (Musée d'Archéologie nationale)" ;
+   :note "From Wikipedia: “The statue is a human bust with a large relief of a boar on its chest. The boar was a potent symbol for the Celts and the figure has been thought to represent a Gaulish boar-god, perhaps Moccus. … It is cylindrical, somewhat squared around the torso. … It is broken at the top and bottom.”" ;
+   :in-modern-country-note "France" ;
+   :representative-latlong-point (48.1306 5.0458) ; # Euffigneix, Haute-Marne; found nearby in 1922, exact findspot not located
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:226_dieu_d%27Euffigneix_(6).jpg> .
 
 :hendy-heath a :human-figure ;
    rdfs:label "The Hendy Head" ;
@@ -5473,6 +5846,22 @@
    :representative-latlong-point (40.042931 -90.528939) ;
    :thumbnail-image <https://images-provider.frontiersin.org/api/ipx/w=654&f=webp/https://www.frontiersin.org/files/Articles/1355421/xml-images/fhumd-06-1355421-g003.webp> .
 
+:god-etang-sur-arroux a :human-figure ;
+   rdfs:label "God of Étang-sur-Arroux" ;
+   :described-by <https://en.wikipedia.org/wiki/God_of_%C3%89tang-sur-Arroux> ;
+   :earliest-date -50 ;
+   :latest-date 250 ;
+   :apparent-gender :male ;
+   :height 0.108 ;
+   :material-note "Bronze" ;
+   :identifier-note "Inv. 7458 (Musée d'Archéologie nationale)" ;
+   :note "Exact findspot unknown. From Wikipedia: “The statuette is of a bearded figure sat cross legged with two ram-headed, fish-tailed serpents feeding from a basket in his hands. The horned serpents and holes in the head for antlers identify this as a representation of the Gaulish stag god Cernunnos. One peculiar feature, the presence of small human faces above each ear, has been commented on.”" ;
+   :in-modern-country-note "France" ;
+   :representative-latlong-point (46.8669 4.1903) ; # Étang-sur-Arroux; found 1840, perhaps at the gué de la Perrière on the Arroux; the museum inventory gives Savigny (Curgy)
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:God_of_Etang_sur_Arroux_possible_depiction_of_Cernunnos.jpg> ,
+      <https://commons.wikimedia.org/wiki/File:God_of_%C3%89tang-sur-Arroux_in_profile,_Salomon_Reinach.jpg> ,
+      <https://commons.wikimedia.org/wiki/File:God_of_%C3%89tang-sur-Arroux_back,_Salomon_Reinach.jpg> .
+
 :dendera-zodiac a :group-of-human-figures ;
    rdfs:label "Dendera Zodiac" ;
    :described-by <https://en.wikipedia.org/wiki/Dendera_zodiac> ,
@@ -5485,6 +5874,18 @@
    :in-modern-country-note "Egypt" ;
    :representative-latlong-point (26.141667 32.670278) ; # Dendera Temple complex (Wikipedia)
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Zodiaque_de_Dend%C3%A9ra_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_Egyptiennes_D_38_;_E_13482.jpg> .
+
+:idolino-pesaro a :human-figure ;
+   rdfs:label "Idolino of Pesaro" ;
+   :described-by <https://en.wikipedia.org/wiki/Idolino> ;
+   :approximate-date -30 ;
+   :apparent-gender :male ;
+   :height 1.46 ;
+   :material-note "Bronze" ;
+   :note "From Wikipedia: “It is a copy of a Greek sculpture in the style of Polyclitus made in approximately 440 B.C. It received the name ‘Idolino,’ which is Italian for ‘Little Idol,’ in the 19th century. … The statue represents a youth with his right hand outstretched. Originally thought to be a statue of Bacchus, it is now believed to have been used to hold an oil lamp at dinner parties.”" ;
+   :in-modern-country-note "Italy" ;
+   :representative-latlong-point (43.916667 12.9) ; # Pesaro (Wikipedia); found 1530 in a Roman villa there, exact spot not given
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Idolino_di_pesaro,_01.JPG> .
 
 :augustus-portrait-meroe a :human-figure ;
    rdfs:label "Portrait of Augustus from Meroë" ;
@@ -5711,6 +6112,20 @@
    :in-modern-country-note "France" ;
    :representative-latlong-point (49.242222 2.625833) ;
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Ex-voto_gallo-romain_Halatte_070908_05.jpg> .
+
+:lyon-cup a :group-of-human-figures ;
+   rdfs:label "Lyon Cup" ;
+   :described-by <https://en.wikipedia.org/wiki/Lyon_cup> ;
+   :earliest-date 1 ;
+   :latest-date 100 ;
+   :apparent-gender :male ;
+   :height 0.077 ;
+   :material-note "Silver" ;
+   :note "From Wikipedia: “The Lyon cup (French: gobelet de Lyon) is a silver Gallo-Roman cup found in Lyon (Lugdunum in Roman times), France. It is decorated in relief with a series of images: a reclining male figure with a deer and dog; a seated male figure with purses and a raven; an eagle confronting a serpent; two trees diametrically opposed. The wilderness scene has been interpreted variously as representing the gods Cernunnos and Mercury; the gods Cernunnos and Lugus; the god Apollo and a blessed devotee; and a complicated scene involving the divine trio Taranis, Teutates, and Esus.”" ;
+   :in-modern-country-note "France" ;
+   :representative-latlong-point (45.7555076 4.8280322) ; # 29 Rue Sala, Lyon, find-spot (1929)
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Lyon_5e_-_Mus%C3%A9e_Lugdunum_-_Gobelet_d%27argent_aux_dieux_gaulois_01.jpg> ,
+      <https://commons.wikimedia.org/wiki/File:Silver_cup_with_Gallic_divinities_(Lyon_Mus_Gall-Rom_2004.0.02)_01.jpg> .
 
 :yelykaevo-bronze-maskette a :human-figure ;
    rdfs:label "Yelykaevo Bronze Maskette" ;
@@ -5964,6 +6379,72 @@
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Hermes_Criophorus_(National_Archaeological_Museum_of_Athens,_1-31-2023).jpg> ,
       <https://commons.wikimedia.org/wiki/File:NAMA_243._Statue_of_Hermes_Criophorus_02.jpg> .
 
+:hariti-children-yusufzai a :group-of-human-figures ;
+   rdfs:label "Hārītī with Children" ;
+   :described-by <https://www.britishmuseum.org/collection/object/A_1886-0611-1> ;
+   :earliest-date 100 ;
+   :latest-date 300 ;
+   :apparent-gender :female, :unclear ;
+   :height 0.77 ;
+   :material-note "Grey schist" ;
+   :note "From British Museum: “Seated Hārītī with children. She wears a sleeved tunic with fabric so thin and stretched on her breasts that none of the drapery folds continue over them; the exposed sleeve is ruched in a pattern of short, dense, undulating grooves and with a narrow band of paired beads running down its length.”" ;
+   :in-modern-country-note "Pakistan" ;
+   :representative-latlong-point (34.201222 72.025833) ; # Mardan (Wikipedia), proxy for BM findspot "Yusufzai" (the Yusufzai plain of the Peshawar Valley)
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:GoddessHaririWithBaby.jpg> .
+
+:bacchus-aldaia a :human-figure ;
+   rdfs:label "Bacchus of Aldaia" ;
+   :described-by <https://en.wikipedia.org/wiki/Bacchus_of_Aldaia> ;
+   :earliest-date 100 ;
+   :latest-date 200 ;
+   :apparent-gender :male ;
+   :height 1.09 ;
+   :material-note "White marble" ;
+   :note "From Wikipedia: “The Bacchus of Aldaia (Spanish: Baco de Aldaya) is an ancient Roman marble statuette of the Roman god Bacchus (Dionysus) that was found in La Ereta dels Moros in Aldaia, Valencia, in Spain, in two fragments between the years 1884 and 1924. The god is depicted naked except for a deer skin draped over him and wearing sandals and a floral crown. The sculpture is now exhibited in the National Archaeological Museum of Spain in the capital Madrid.”" ;
+   :in-modern-country-note "Spain" ;
+   :representative-latlong-point (39.463889 -0.462778) ; # Aldaia (Wikipedia); found on the La Ereta dels Moros farm
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Baco_(M.A.N._Madrid)_01.jpg> .
+
+:buddha-capital-surkh-kotal a :human-figure ;
+   rdfs:label "Capital with Buddha from Surkh Kotal" ;
+   :described-by <https://en.wikipedia.org/wiki/Surkh_Kotal#Architectural_elements> ,
+      <https://commons.wikimedia.org/wiki/File:Buddha_Capitol_2.jpg> ;
+   :earliest-date 100 ;
+   :latest-date 200 ;
+   :apparent-gender :male ;
+   :material-note "Stone" ;
+   :note "From Wikipedia: “… capital from Surkh Kotal, with central Buddha figure.”" ;
+   :in-modern-country-note "Afghanistan" ;
+   :representative-latlong-point (36.036083 68.58905) ; # Surkh Kotal (Wikipedia, 36°02′9.9″N 68°35′20.58″E)
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Buddha_Capitol_2.jpg> .
+
+:warrior-relief-efrenk a :human-figure ;
+   rdfs:label "Warrior Relief of Efrenk" ;
+   :described-by <https://en.wikipedia.org/wiki/Warrior_relief_of_Efrenk> ;
+   :earliest-date 100 ;
+   :latest-date 200 ;
+   :apparent-gender :male ;
+   :height 1.9 ;
+   :material-note "Rock relief, with traces of paint" ;
+   :note "From Wikipedia: “It is 1.9 m high and depicts a warrior, surrounded by a naiskos. … There are traces of white paint on the relief in several spaces - between the head and the right arm, for instance, there are traces of red paint. … On the left pilaster there is an inscription at about chest height, which has been resolved as an 8 line inscription: … May Helios and Selene attack anyone who attacks or diminishes the Heroon.”" ;
+   :in-modern-country-note "Turkey" ;
+   :representative-latlong-point (36.607778 34.075389) ; # relief site near Sömek, Silifke, Mersin (Wikipedia)
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Efrenk_Krieger_Relief.jpg> ,
+      <https://commons.wikimedia.org/wiki/File:Efrenk_Krieger_gesamt.jpg> .
+
+:athena-relief-somek a :human-figure ;
+   rdfs:label "Athena Relief of Sömek" ;
+   :described-by <https://en.wikipedia.org/wiki/Athena_relief_of_S%C3%B6mek> ;
+   :earliest-date 100 ;
+   :latest-date 200 ;
+   :apparent-gender :female ;
+   :height 1.3 ;
+   :material-note "Rock relief" ;
+   :note "From Wikipedia: “The relief is carved in the living rock at a height of some 1.5 metres above the ground. It has a total height of 1.3 metres. In a niche finished with a conch-shaped top, the image of a woman is found, who can be identified as the goddess Athena thanks to the inscription, among other things. … The right arm of the figure is raised and holds a lance. Her left, pointing down to the ground, holds a shield on edge.”" ;
+   :in-modern-country-note "Turkey" ;
+   :representative-latlong-point (36.604444 34.080833) ; # relief site near Sömek, Silifke, Mersin (Wikipedia, 36°36′16″N 34°04′51″E)
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:AthenaS%C3%B6mek1.jpg> .
+
 :hadrian-sabina-mars-venus-louvre a :group-of-human-figures ;
    rdfs:label "Hadrian and Sabina as Mars and Venus" ;
    :described-by <https://en.wikipedia.org/wiki/Venus_and_Mars_(sculpture)> ,
@@ -5977,6 +6458,20 @@
    :representative-latlong-point (41.8976 12.4984) ; # ll for Santa Maria Maggiore, Rome
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Mars_Venus_Louvre_Ma1009.jpg> .
 
+:apollo-belvedere a :human-figure ;
+   rdfs:label "Apollo Belvedere" ;
+   :described-by <https://en.wikipedia.org/wiki/Apollo_Belvedere> ;
+   :earliest-date 120 ;
+   :latest-date 140 ;
+   :apparent-gender :male ;
+   :height 2.24 ;
+   :material-note "White marble" ;
+   :note "From Wikipedia: “The work has been dated to mid-way through the 2nd century A.D. and is considered to be a Roman copy of an original bronze statue created between 330 and 320 B.C. by the Greek sculptor Leochares. … The Greek god Apollo is depicted as a standing archer having just shot an arrow. … Its complex contrapposto has been much admired, appearing to position the figure both frontally and in profile. The arrow has just left Apollo's bow and the effort impressed on his musculature still lingers. … He is entirely nude except for his sandals and a robe (chlamys) clasped at his right shoulder, turned up on his left arm, and thrown back.”" ;
+   :in-modern-country-note "Italy" ;
+   :representative-latlong-point (41.447947 12.629053) ; # Anzio; Wikipedia says it "seems to have been discovered in 1489" there, or perhaps at Grottaferrata
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Apollo_del_Belvedere.jpg> ,
+      <https://commons.wikimedia.org/wiki/File:Belvedere_Apollo_Pio-Clementino_Inv1015_n5.jpg> .
+
 :kushan-ruler-surkh-kotal a :human-figure ;
    rdfs:label "Kushan Ruler from Surkh Kotal" ;
    :described-by <https://en.wikipedia.org/wiki/Surkh_Kotal#The_ancient_name_of_the_site> ;
@@ -5986,6 +6481,19 @@
    :in-modern-country-note "Afghanistan" ;
    :representative-latlong-point (36.036083 68.58905) ;
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Probable_statue_of_Kanishka,_Surkh_Kotal._Kabul_Museum_(2nd_century_CE).jpg> .
+
+:lansdowne-herakles a :human-figure ;
+   rdfs:label "Statue of Hercules (Lansdowne Herakles)" ;
+   :described-by <https://www.getty.edu/art/collection/object/103QSP> ,
+      <https://en.wikipedia.org/wiki/Lansdowne_Heracles> ;
+   :approximate-date 125 ;
+   :apparent-gender :male ;
+   :height 1.935 ;
+   :material-note "Marble" ;
+   :note "From Getty: “The Lansdowne Herakles very likely was inspired by a lost Greek statue, probably from the school of Polykleitos from the 300s B.C. Found in 1790 near the ruins of the villa of the Roman emperor Hadrian at Tivoli outside Rome, this statue was one of numerous copies of Greek sculpture commissioned by Hadrian, who loved Greek culture.”" ;
+   :in-modern-country-note "Italy" ;
+   :representative-latlong-point (41.946004 12.772515) ; # Hadrian's Villa, Tivoli (Wikipedia); found 1790
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Lansdowne_Herakles_Getty_Museum.jpg> .
 
 :coin-kanushka-boddo a :group-of-human-figures ;
    rdfs:label "Coin of Kanushka with Buddha on Reverse" ;
@@ -7576,6 +8084,32 @@
 
 # 600 - 900 https://www.metmuseum.org/art/collection/search/309503
 
+:sancai-camel-musicians-singer-shaanxi a :group-of-human-figures ;
+   rdfs:label "Sancai Camel with Musicians and Singer" ;
+   :described-by <https://en.sxhm.com/en/new/treasure/detail/18046.html> ;
+   :earliest-date 618 ;
+   :latest-date 907 ;
+   :apparent-gender :male , :female ;
+   :height 0.58 ;
+   :material-note "Pottery, three-color (sancai) glaze" ;
+   :note "From Shaanxi History Museum: “This figurine presents a romantic scene of a travelling musical band on camel back. The camel stands on a rectangular base, grunting to the sky. A musical band is on its back where seven sitting male musicians dressed in Tang costumes are playing music with various Hu or exotic instruments while a standing lady is singing in the middle.”" ;
+   :in-modern-country-note "China" ;
+   :representative-latlong-point (34.2557 108.8677) ; # Zhongbaocun, western suburb of Xi'an (museum: found 1959)
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Tri-colored_Camel_Carrying_Musicians_on_the_Back_(8660190403).jpg> .
+
+:sancai-camel-musicians-dancer-xianyu-tinghai a :group-of-human-figures ;
+   rdfs:label "Sancai Camel with Musicians and Dancer" ;
+   :described-by <https://www.chnmuseum.cn/zp/zpml/kgfjp/202008/t20200824_247230.shtml> ;
+   :earliest-date 618 ;
+   :latest-date 723 ;
+   :apparent-gender :male ;
+   :height 0.584 ;
+   :material-note "Pottery, three-color (sancai) glaze" ;
+   :note "Translated from the National Museum of China website: “The camel stands with its head raised, carrying five adult men, Han and Hu (non-Han). In the middle a Hu man is dancing, while the other four sit around him playing music. … The pottery figure of a camel carrying musicians probably represents an acrobatic act from the ‘hundred entertainments’ of Chang’an.”" ;
+   :in-modern-country-note "China" ;
+   :representative-latlong-point (34.2726 108.8445) ; # Tomb of Xianyu Tinghai, Xi'an (museum: excavated 1957)
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Polychrome_glazed_tomb_figurine_of_a_troupe_of_musicians_on_a_camel,_NMC.jpg> .
+
 :coin-chach-7th-century a :human-figure ;
    rdfs:label "Coin of Chach, e. 7th Century CE" ;
    :described-by <https://en.wikipedia.org/wiki/Tashkent#History_as_Chach> ;
@@ -7634,6 +8168,20 @@
    :representative-latlong-point (40.037222 94.804167) ;
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Harvard_Art_Museums_Tang_Dynasty_Kneeling_Attendant_Bodhisattva_哈佛美术馆_莫高窟唐代供养菩萨像.jpg> .
 
+:chiik-naab-murals-calakmul a :group-of-human-figures ;
+   rdfs:label "Chiik Naab Murals" ;
+   :described-by <https://en.wikipedia.org/wiki/Chiik_Naab_murals> ,
+      <https://whc.unesco.org/en/activities/685/> ;
+   :earliest-date 650 ;
+   :latest-date 700 ;
+   :apparent-gender :female , :male ;
+   :height 5 ;
+   :material-note "Fresco" ;
+   :note "From UNESCO: “The structure has a base of 12 metres in width and 5 metres in height and has extraordinary mural imagery with scenes of daily life, this being of particular importance as it is one of the few pictorial representations of the Mayan world in which there are no religious, ceremonial or political scenes.”" ;
+   :in-modern-country-note "Mexico" ;
+   :representative-latlong-point (18.105392 -89.810828) ; # Calakmul, Chiik Naab acropolis, Structure I substructure (Wikidata Q272771: 18.105 -89.8106)
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Calakmul_Fresken.JPG> .
+
 :rinnegan-crucifixion-plaque a :group-of-human-figures ;
    rdfs:label "Rinnegan Crucifixion Plaque" ;
    :described-by <https://en.wikipedia.org/wiki/Rinnegan_Crucifixion_Plaque> ;
@@ -7643,6 +8191,22 @@
    :in-modern-country-note "Ireland" ;
    :representative-latlong-point (53.5 -7.966667) ;
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Placca_della_crocifissione,_in_bronzo,_da_st._john%27s_rinnagan,_contea_di_roscommon,_viii_secolo.jpg> .
+
+:enthroned-jina-neminatha-akota a :group-of-human-figures ;
+   rdfs:label "Enthroned Jina (Neminatha)" ;
+   :described-by <https://www.metmuseum.org/art/collection/search/74501> ,
+      <https://en.wikipedia.org/wiki/Akota_Bronzes> ;
+   :earliest-date 675 ;
+   :latest-date 700 ;
+   :apparent-gender :male , :female ;
+   :height 0.349 ;
+   :material-note "Copper alloy" ;
+   :identifier-note "Accession no. 2008.279" ;
+   :note "From The Met: “An enthroned Jain savior is deep in meditation, seated in a yogic posture on a jeweled cushion set on a two-tiered lion-supported throne. At the center of the pedestal two kneeling deer venerate the wheel-of-law (dharmachakra), a symbol of religious wisdom shared with Buddhism. Seated in royal ease on projecting lotus supports are the yaksha Gomedha and the yakshi Ambika, attendants of the jina Neminatha, the twenty-second in the lineage of twenty-four historical jinas recognized by the Jain religion. On the reverse is a donor's inscription in a seventh-century Sanskrit script.”" ;
+   :in-modern-country-note "India" ;
+   :representative-latlong-point (22.3 73.17) ; # Akota, Vadodara, Gujarat (Wikidata: 22.2951 73.1686); the Met gives "India (Gujarat, Akota)"
+   :thumbnail-image <https://images.metmuseum.org/CRDImages/as/original/DP161523.jpg> ;
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:MET_-_Neminatha_Akota.jpg> .
 
 :madara-rider-relief a :human-figure ;
    rdfs:label "Madara Rider Relief" ;
@@ -7785,6 +8349,25 @@
    :in-modern-country-note "Syria" ;
    :representative-latlong-point ( 34.374444 37.605833 ) ;
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Arabischer_Maler_um_730_002.jpg> .
+
+:brahma-indra-kofukuji a :group-of-human-figures ;
+   rdfs:label "Statues of Brahmā and Indra" ;
+   :described-by <https://en.wikipedia.org/wiki/Statues_of_Brahm%C4%81_and_Indra> ,
+      <https://collections.asianart.org/collection/the-deities-brahma-and-indra/> ,
+      <https://artsandculture.google.com/asset/the-deity-brahma-bonten-one-of-a-pair/AAHkOO_Nbiid7Q> ,
+      <https://artsandculture.google.com/asset/the-deity-indra-taishakuten-one-of-a-pair/PwHQfrF9WISL_A> ;
+   :earliest-date 730 ;
+   :latest-date 750 ;
+   :apparent-gender :male ;
+   :height 1.575 ;
+   :material-note "Hollow dry lacquer" ;
+   :identifier-note "B65S13 and B65S12 (Asian Art Museum, San Francisco)" ;
+   :note "From the Asian Art Museum: “Large-scale, hollow dry-lacquer statues like these are rare even in Japan, where most are designated as National Treasures or Important Cultural Properties. Brahma and Indra, known in Japan as Bonten and Taishakuten, were considered protective figures, and statues of the two deities were typically paired as attendants flanking a buddha or bodhisattva. This pair once belonged to the prominent Buddhist temple Kofukuji in Nara, Japan. Made in the eighth century, these statues are among the few surviving Brahma and Indra images from that period.”" ;
+   :in-modern-country-note "Japan" ;
+   :representative-latlong-point (34.68325 135.83117) ; # Kōfuku-ji, Nara (Wikipedia); sold by the temple in 1906
+   :thumbnail-image <https://collections.asianart.org/wp-content/uploads/sites/5/2020/06/B65S12-B65S13_v01-1200x1120.jpg> ;
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:The_deity_Brahma_(Bonten),_one_of_a_pair.jpg> ,
+      <https://commons.wikimedia.org/wiki/File:The_deity_Indra_(Taishakuten),_one_of_a_pair.jpg> .
 
 :bust-kul-tigin a :human-figure ;
    rdfs:label "Bust of Kul Tigin" ;
@@ -8067,6 +8650,20 @@
    :in-modern-country-note "El Salvador" ;
    :representative-latlong-point (13.979444 -89.674167) ;
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:ES_Tazumal_06_2011_Xipe_Totec_2292.jpg> .
+
+:parsvanatha-akota a :group-of-human-figures ;
+   rdfs:label "Parsvanatha" ;
+   :described-by <https://artsandculture.google.com/asset/parsvanatha/mAFgPOnPHnKiuA> ,
+      <https://en.wikipedia.org/wiki/Akota_Bronzes> ;
+   :earliest-date 801 ;
+   :latest-date 900 ;
+   :apparent-gender :male , :female ;
+   :height 0.31 ;
+   :material-note "Bronze" ;
+   :note "From the National Museum, New Delhi (Google Arts & Culture): “This object depicts Tirthankara Parsvanatha, symbolized by the seven-hooded snake canopy over his head. In the centre the Jaina Master is seated in dhyana-mudra and is flanked by two other tirthankaras. Yaksha and yakshi are shown near the pedestal. The base depicts the navagrahas and the donor couple.”" ;
+   :in-modern-country-note "India" ;
+   :representative-latlong-point (22.3 73.17) ; # Akota, Vadodara, Gujarat (Wikidata: 22.2951 73.1686); Google Arts & Culture gives "Akota, Gujarat"
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:National_Museum_-_Parsvanatha_9C_(2).jpg> .
 
 :rongxian-giant-buddha a :human-figure ;
    rdfs:label "Rongxian Giant Buddha" ;
@@ -8484,6 +9081,20 @@
    :art-historical-culture-or-tradition :maya-culture ;
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Grolier_Codex_in_HuffPo_2.jpg> .
 
+:ambika-statue-dhar a :group-of-human-figures ;
+   rdfs:label "Ambikā Statue from Dhār" ;
+   :described-by <https://en.wikipedia.org/wiki/Ambika_Statue_from_Dhar> ,
+      <https://www.britishmuseum.org/collection/object/A_1909-1224-1> ;
+   :earliest-date 1034 ;
+   :latest-date 1035 ;
+   :apparent-gender :female, :male ;
+   :height 1.285 ;
+   :material-note "White marble" ;
+   :note "From British Museum: “Standing figure of the Jaina yakṣiṇī Ambikā carved in a coarse white marble. The goddess, originally four-armed, is carved in high relief against the plain ground of the slab; the base has been given offsets and is inscribed. The goddess wears a tiered crown of the beehive (karaṇḍa) type with her long hair tied into a small bun on one side. Two arms of the goddess have been broken away; in the remaining arms, she holds an elephant goad (aṅkuśa) and what seems to be the bottom of a noose or the stalk of a plant. On one of the stepped faces of the base is a small incised figure of a kneeling female donor with a inscribed label above.”" ;
+   :in-modern-country-note "India" ;
+   :representative-latlong-point (22.597222 75.304167) ; # Dhar (Wikipedia); found in the ruins of the City Palace, 1875
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Ambik%C4%81_from_Dh%C4%81r.jpg> .
+
 :keller-figurine a :human-figure ;
    rdfs:label "Keller Figurine" ;
    :described-by <https://en.wikipedia.org/wiki/Mississippian_stone_statuary> ;
@@ -8648,6 +9259,21 @@
    :representative-latlong-point ( 42.524778 0.825641 ) ;
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Davallament_figures_MEV.jpg> .
 
+:four-heavenly-kings-kofukuji a :group-of-human-figures ;
+   rdfs:label "Four Heavenly Kings (Shitennō) from Kōfuku-ji" ;
+   :described-by <https://en.wikipedia.org/wiki/Four_Heavenly_Kings_(ex-K%C5%8Dfuku-ji)> ,
+      <https://colbase.nich.go.jp/collection_items/narahaku/755-0?locale=en> ,
+      <https://colbase.nich.go.jp/collection_items/narahaku/1114-0?locale=en> ;
+   :earliest-date 1150 ;
+   :latest-date 1250 ;
+   :apparent-gender :male ;
+   :material-note "Japanese cypress (hinoki), pigment, crystal eyes" ;
+   :note "From Wikipedia: “The Statues of the Four Heavenly Kings from Kōfuku-ji are a set of dispersed Japanese Buddhist sculptures depicting the Four Heavenly Kings dating to the Heian to Kamakura period. Formerly held by Kōfuku-ji in Nara, Japan, and among the multiple set of Shitennō carved for the temple, they were dispersed during the Meiji Period in 1906. Two of the sculptures, depicting Vaiśravaṇa (Tamonten) and Virūḍhaka (Zōchōten) are currently held by the Nara National Museum, while the sculpture of Dhṛtarāṣṭra (Jikokuten) is held by the Miho Museum in Shiga Prefecture, with the sculpture of Virūpākṣa (Komokuten) remaining at the temple.”" ;
+   :in-modern-country-note "Japan" ;
+   :representative-latlong-point (34.68325 135.83117) ; # Kōfuku-ji, Nara (Wikipedia)
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Nara_National_Museum_755-0_Vai%C5%9Brava%E1%B9%87a.jpg> ,
+      <https://commons.wikimedia.org/wiki/File:H063462_Z%C5%8Dch%C5%8D-ten_(Vir%C5%AB%E1%B8%8Dhaka)_1114-0.jpg> .
+
 :luohan-laundering-silk a :group-of-human-figures ;
    rdfs:label "Luohan laundering 羅漢洗濯圖" ;
    :described-by <https://asia.si.edu/explore-art-culture/collections/search/edanmdm:fsg_F1902.224/> ,
@@ -8710,6 +9336,20 @@
    :art-historical-culture-or-tradition :khmer-empire ;
    :representative-latlong-point (13.4125 103.866667) ; # Angkhor as contemporary capital
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:JayavarmanVII.jpg> .
+
+:boston-miroku a :human-figure ;
+   rdfs:label "Boston Miroku" ;
+   :described-by <https://collections.mfa.org/objects/28592> ,
+      <https://en.wikipedia.org/wiki/Boston_Miroku> ;
+   :date 1189 ;
+   :apparent-gender :male ;
+   :height 1.422 ;
+   :material-note "Japanese cypress (Chamaecyparis obtusa) with gold and inlaid crystal; split-and-joined construction" ;
+   :identifier-note "Accession no. 20.723.1" ;
+   :note "From Wikipedia: “The Boston Miroku is a Kamakura period wooden sculpture of Maitreya, the Buddha of the future. Carved by the Buddhist sculptor Kaikei in 1189, it was once held and venerated at Kōfuku-ji, Nara until the temple sold it in 1906. It was then acquired by the Museum of Fine Arts, Boston in 1920. It is considered to be the earliest extant work of Kaikei, who is recognized for his works as part of the Kei school of Buddhist sculpture.”" ;
+   :in-modern-country-note "Japan" ;
+   :representative-latlong-point (34.68325 135.83117) ; # Kōfuku-ji, Nara (Wikipedia); held there until 1906
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Miroku,_the_Bodhisattva_of_the_Future.jpg> .
 
 :bayon-southern-market-scene a :group-of-human-figures ;
    rdfs:label "Bayon Market Scene" ;
@@ -8780,6 +9420,20 @@
    :representative-latlong-point (35.311146 -94.569449) ;
    :thumbnail-image <https://www.spiromounds.com/img/figure-9.20.jpg?nf_resize=fit&w=1000&h=1000> .
 
+:seated-portrait-minamoto-yoritomo a :human-figure ;
+   rdfs:label "Seated Portrait of Minamoto no Yoritomo" ;
+   :described-by <https://en.wikipedia.org/wiki/Seated_Portrait_of_Minamoto_no_Yoritomo> ;
+   :earliest-date 1200 ;
+   :latest-date 1333 ;
+   :apparent-gender :male ;
+   :height 0.705 ;
+   :material-note "Wood, polychromy, inlaid crystal eyes" ;
+   :identifier-note "Catalogue no. C-1526 (Tokyo National Museum)" ;
+   :note "From Wikipedia: “Minamoto no Yoritomo (1147–1199) was the founder and the first shōgun of the Kamakura Shogunate of Japan. … It is generally agreed that the sculpture might be an image of him, but this attribution is not completely certain. … A smaller-than-life portrait, with a height of about 70 cm from the bottom to the top of the eboshi, the typical headgear used by court nobles, it has been praised for its ‘solemnity’ and for ‘showing the noble dignity of the head of a warrior family’.”" ;
+   :in-modern-country-note "Japan" ;
+   :representative-latlong-point (35.324722 139.555833) ; # Tsurugaoka Hachimangū, Kamakura, where it is believed to have been enshrined (Wikipedia)
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Seated_Portrait_of_Minamoto_no_Yoritomo_(Presumed)_1.jpg> .
+
 # 1221 https://en.wikipedia.org/wiki/Emperor_Go-Toba
 
 :todaiji-hachiman a :human-figure ;
@@ -8793,6 +9447,23 @@
    :note "From Wikipedia: “The Tōdai-ji Hachiman is a syncretic Shinto-Buddhist sculpture of the kami Hachiman carved in 1201 by Buddhist sculptor Kaikei. ... Kaikei's sculpture is a solitary image of Hachiman as a monk. ... the deity is seen legs crossed, left hand on the lap, right hand held at chest level, staff in hand. He wears a grey undergarment, ochre robe, and is painted with a tōyama pattern, wisps of reds (shades of lacquer and cinnabar), greens and blues.”" ;
    :representative-latlong-point (34.68916667 135.83972222) ; # Tōdai-ji, Nara, from Wikipedia
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Todaiji_Monastery_Hachiman_by_Kaikei_(420).jpg> .
+
+:burke-jizo a :human-figure ;
+   rdfs:label "Jizō, Bodhisattva of the Earth Store (Kshitigarbha)" ;
+   :described-by <https://en.wikipedia.org/wiki/Burke_Jiz%C5%8D> ,
+      <https://www.metmuseum.org/art/collection/search/53175> ;
+   :date 1202 ;
+   :apparent-gender :male ;
+   :height 0.559 ;
+   :material-note "Lacquered Japanese cypress, color, gold, cut gold, and inlaid crystal" ;
+   :identifier-note "Accession no. 2015.300.250a, b" ;
+   :note "From The Met: “Jizō Bosatsu (Sanskrit: Bodhisattva Ksitigarbha) … is represented here in his usual attitude, with a shaved head and wearing the robes of a Buddhist monk. His right hand grasps a staff (shakujō), which he shakes to awaken humans from their delusions; his left hand most likely held a wish-granting jewel (hōju no tama), signifying the bestowal of blessings. An inscription on the interior of the figure identifies this as a work by Kaikei, one of the two leading sculptors of the early Kamakura period.”" ;
+   :in-modern-country-note "Japan" ;
+   :representative-latlong-point (34.68325 135.83117) ; # Kōfuku-ji, Nara (Wikipedia); held there until 1906
+   :thumbnail-image <https://collectionapi.metmuseum.org/api/collection/v1/iiif/53175/2035975/main-image> ,
+      <https://collectionapi.metmuseum.org/api/collection/v1/iiif/53175/2035977/main-image> ,
+      <https://collectionapi.metmuseum.org/api/collection/v1/iiif/53175/2035973/main-image> ;
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:%E5%9C%B0%E8%94%B5%E8%8F%A9%E8%96%A9%E7%AB%8B%E5%83%8F-Jiz%C5%8D_Bosatsu_MET_2015_300_250_F_SF.jpg> .
 
 :ryutoki-kofukuji a :human-figure ;
    rdfs:label "Ryūtōki: Demon with Dragon and Lantern (Kōfuku-ji)" ;
@@ -8831,6 +9502,48 @@
    :representative-latlong-point (34.125131 -84.807664) ;
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Etowah_statues_HRoe_2007.jpg> .
 
+:inuit-carving-european-baffin-island a :human-figure ;
+   rdfs:label "Inuit Carving of a European, Baffin Island" ;
+   :described-by <https://www.historymuseum.ca/collections/artifact/482525> ,
+      <https://artofthemiddleages.com/s/main/item/4449> ;
+   :earliest-date 1250 ;
+   :latest-date 1300 ;
+   :apparent-gender :male ;
+   :height 0.0538 ;
+   :material-note "Driftwood" ;
+   :note "From Canadian Museum of History: “The meeting of these two peoples is recorded in the small wooden figure …, carved from driftwood and found in the remains of an early Inuit house on Baffin Island. The featureless face and stumpy arms are characteristic of Inuit carvings of the period, but this figure is unique in portraying a person in European dress; lightly incised lines indicate the folds of a long robe and an apparent cross on the chest. The Norseman portrayed here may have come ashore on Baffin Island to trade with the Inuit.”" ;
+   :in-modern-country-note "Canada" ;
+   :representative-latlong-point (62.846667 -69.871944) ; # Kimmirut, South Baffin (Wikipedia) as proxy; CMH gives "South Baffin", site KeDq-7
+   :thumbnail-image <https://artofthemiddleages.com/files/original/0dfaffb6cbb9b4385dbd8e80f701fe87f932bd9b.jpg> .
+
+:great-buddha-kamakura a :human-figure ;
+   rdfs:label "The Great Buddha of Kamakura" ;
+   :described-by <https://en.wikipedia.org/wiki/K%C5%8Dtoku-in> ;
+   :approximate-date 1252 ;
+   :apparent-gender :male ;
+   :height 13.35 ;
+   :material-note "Bronze, formerly gilded" ;
+   :note "From Wikipedia: “The Great Buddha of Kamakura (鎌倉大仏, Kamakura Daibutsu) is a large bronze statue of Amitābha, located on the temple grounds. Including the base, it measures 13.35 metres (43.8 ft) tall and weighs approximately 93 tonnes (103 short tons). According to temple records, the statue dates from around 1252, during the Kamakura period, which it is named after.”" ;
+   :in-modern-country-note "Japan" ;
+   :representative-latlong-point (35.31686 139.53572) ; # Kōtoku-in, Kamakura (Wikidata Q672056)
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Kamakura_Budda_Daibutsu_front_1885.jpg> ,
+      <https://commons.wikimedia.org/wiki/File:Kamakura_Daibutsu_-_Takeshi_DSC_7849_(4833376057).jpg> .
+
+:seated-ragaraja-nara a :human-figure ;
+   rdfs:label "Seated Rāgarāja" ;
+   :described-by <https://en.wikipedia.org/wiki/Seated_R%C4%81gar%C4%81ja_(Nara_National_Museum)> ,
+      <https://www.narahaku.go.jp/english/collection/958-2.html> ;
+   :date 1256 ;
+   :apparent-gender :male ;
+   :height 0.262 ;
+   :material-note "Wood, cypress, single block construction (hollow), pigment, crystal eyes" ;
+   :identifier-note "Accession no. 958-2 (Nara National Museum)" ;
+   :note "From Wikipedia: “Seated Rāgarāja or Seated Aizen Myō-ō (Japanese: 木造愛染明王坐像) is a Buddhist sculpture from the Kamakura period depicting the Wisdom King Rāgarāja (Aizen Myō-ō), carved in 1256 in the city of Nara, Japan. Constructed in the decades of restoration after the siege of Nara during the Genpei War using materials used for the reconstruction of the Daibutsuden in Tōdai-ji, the statue was once part of the pantheon at Kōfuku-ji until it was sold off by the temple during the Meiji era.”" ;
+   :in-modern-country-note "Japan" ;
+   :representative-latlong-point (34.68325 135.83117) ; # Kōfuku-ji, Nara (Wikipedia; museum: "comes from Kōfukuji Temple")
+   :thumbnail-image <https://colbase.nich.go.jp/media/narahaku/958-2/image/slideshow_l/H061262.jpg> ;
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Aizen_Myo-o_Ragaraja.jpg> .
+
 :madonna-bordone a :group-of-human-figures ;
    rdfs:label "Madonna del Bordone" ;
    :described-by <https://en.wikipedia.org/wiki/Madonna_del_Bordone> ;
@@ -8842,6 +9555,22 @@
    :note "From Wikipedia: “The Madonna del Bordone (‘The Madonna of the pilgrim's staff’) is a panel painting by the Italian painter Coppo di Marcovaldo, in the church of Santa Maria dei Servi in Siena, Italy. Signed and dated 1261, the work is the only certain attribution to the Florentine painter. ... It portrays the Madonna enthroned with a halo and two small angels on her sides. She is enthroned, and supports the blessing Child, who is holding the Book of the Law in his left hand and has a halo surrounded by a jewelled cross.”" ;
    :representative-latlong-point (43.315327 11.338174) ; # Santa Maria dei Servi, Siena, from Wikipedia
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Coppo_di_marcovaldo,_madonna_del_bordone,_siena,_chiesa_dei_servi,_1261_tavola,.jpg> .
+
+:jizo-intan a :human-figure ;
+   rdfs:label "The Bodhisattva Jizō" ;
+   :described-by <https://en.wikipedia.org/wiki/Statue_of_Jiz%C5%8D_(Intan)> ,
+      <https://www.metmuseum.org/art/collection/search/76084> ;
+   :date 1291 ;
+   :apparent-gender :male ;
+   :height 1.359 ;
+   :material-note "Japanese cypress wood (hinoki) with polychrome pigments, gold paint (kindei), cut gold leaf (kirikane), and rock-crystal eyes" ;
+   :identifier-note "Accession no. 2023.640a–c" ;
+   :note "From The Met: “In this sculpture, Jizō is portrayed as a youthful monk with a shaved head and a patchwork surplice over his robe. He wields a monk’s staff in his right hand—which he rattles to awaken humans from their delusions—while in his left he holds a jewel of wisdom that grants all wishes. Jizō’s long earlobes and the urna on his forehead symbolize his enlightened state. This sculpture, one of only three surviving works bearing the name of the sculptor Intan, is signed on one of the wood tenons used to slot the bodhisattva’s feet into the lotus base.”" ;
+   :in-modern-country-note "Japan" ;
+   :representative-latlong-point (34.68325 135.83117) ; # Kōfuku-ji, Nara (Wikipedia); sold by the temple in 1906
+   :thumbnail-image <https://collectionapi.metmuseum.org/api/collection/v1/iiif/76084/1737088/main-image> ,
+      <https://collectionapi.metmuseum.org/api/collection/v1/iiif/76084/1737100/main-image> ,
+      <https://collectionapi.metmuseum.org/api/collection/v1/iiif/76084/2226674/main-image> .
 
 :coronation-virgin-santa-maria-maggiore a :group-of-human-figures ;
    rdfs:label "Coronation of the Virgin, Apse Mosaic, Santa Maria Maggiore" ;
@@ -8868,6 +9597,35 @@
    :representative-latlong-point (45.41184 11.87952) ; # Scrovegni Chapel, Padua, from Wikipedia
    :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Giotto_-_Scrovegni_-_-11-_-_Marriage_of_the_Virgin.jpg> ,
       <https://commons.wikimedia.org/wiki/File:Giotto_di_Bondone_-_Scenes_with_decorative_bands_-_WGA09284.jpg> .
+
+:paradise-bhaisajyaguru a :group-of-human-figures ;
+   rdfs:label "Paradise of Bhaisajyaguru" ;
+   :described-by <https://en.wikipedia.org/wiki/Paradise_of_Bhaisajyaguru> ,
+      <https://www.metmuseum.org/art/collection/search/42716> ;
+   :date 1319 ;
+   :apparent-gender :male , :female ;
+   :height 7.518 ;
+   :material-note "Water-based pigment over foundation of clay mixed with straw" ;
+   :identifier-note "Accession no. 65.29.2" ;
+   :note "From The Met: “Bhaishajyaguru (A), the Buddha of Medicine, sits on a lotus throne surrounded by an assembly of deities. Standing to either side of the central figure are the Buddha’s attendant bodhisattvas: Candraprabha (B), or Yueguang Pusa 月光菩薩, and Suryaprabha (C), or Riguang Pusa 日光菩薩.”" ;
+   :in-modern-country-note "China" ;
+   :representative-latlong-point (36.301667 111.806389) ; # Guangsheng Temple, Hongtong County, Shanxi (Wikipedia); mural from the east wall of the main hall, Lower Temple
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:%E8%96%AC%E5%B8%AB%E4%BD%9B-Buddha_of_Medicine_Bhaishajyaguru_(Yaoshi_fo)_MET_DT227320.jpg> .
+
+:final-death-buddha-sakyamuni-yale a :group-of-human-figures ;
+   rdfs:label "The Final Death of the Buddha Sakyamuni (Yale Parinirvana)" ;
+   :described-by <https://en.wikipedia.org/wiki/The_Final_Death_of_the_Buddha_Sakyamuni> ,
+      <https://artgallery.yale.edu/collections/objects/104557> ;
+   :earliest-date 1320 ;
+   :latest-date 1340 ;
+   :apparent-gender :male, :female ;
+   :height 1.71 ;
+   :material-note "Hanging scroll: ink, color, gold pigment, and cut gold on silk" ;
+   :identifier-note "Accession no. 2005.58.1a-b" ;
+   :note "From Yale University Art Gallery: “The reactions of the animals and figures depicted in this hanging scroll, both semidivine and human—including Shakyamuni’s mother Maya, who descends from the sky on a cloud bank at the right—attest to the depth of their spiritual understanding. With the exception of the monk Subhadhra, all of the figures cry in distress, as do the animals moaning and writhing in the foreground. Subhadhra, who is seated calmly in front of the right corner of the bier, correctly comprehends that this final passing is a liberation and not a tragedy.”" ;
+   :in-modern-country-note "Japan" ;
+   :representative-latlong-point (34.68325 135.83117) ; # Kōfuku-ji, Nara (Wikipedia): painted by Myōson of the Shōnami workshop under Kōfuku-ji's Ichijōin
+   :wikimedia-commons-image-page <https://commons.wikimedia.org/wiki/File:Myoson_-_The_Death_of_the_Buddha_Sakyamuni_(Nehan-zu)_-_2005.58.1a-b_-_Yale_University_Art_Gallery.jpg> .
 
 :saint-catherine-karlstejn-castle a :human-figure ;
    rdfs:label "Saint Catherine from Karlštejn Castle" ;
